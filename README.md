@@ -2,7 +2,7 @@
 
 ## Case statement
 
-<b>Cyclist<b>
+**Cyclist**
 
 A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about 8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use them to commute to work each day.
 
@@ -12,7 +12,7 @@ Cyclistic’s finance analysts have concluded that annual members are much more 
 
 Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the marketing analyst team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
-<b>Scenario<b>
+**Scenario**
 
 I am assuming to be a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, my team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, my team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve our recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
@@ -29,11 +29,19 @@ Each file has been loaded on MySql server through import wixard. For files which
 
 Visualization is done in Tableau. For this the merged table had been exported in a CSV file by "OUTFILE" function. This file is then uploaded on Tableau public desktop and used for data visualization.
 
-<p>This is <b>bold text</b> using the b tag.</p>
-
-
 
 <img width="1047" height="520" alt="image" src="https://github.com/user-attachments/assets/a4639bc2-bd86-4922-8d71-8811307e269d" />
 
 
+<img width="1068" height="854" alt="image" src="https://github.com/user-attachments/assets/735d7e3e-f12f-46c6-8e77-cea8124c0e1b" />
 
+
+<img width="1118" height="872" alt="image" src="https://github.com/user-attachments/assets/ea37ac84-9219-47be-8a7a-c0f8c68bf392" />
+
+
+Casual	Member
+Prefer using bikes throughout the day 	Prefer riding bikes on commute hours (8 am / 5pm)
+Travel 2 times longer but less frequently than members.	Travel more frequently but shorter rides (approximately half of casual riders' trip duration).
+Ride more frequently over the weekends	Prefer riding bikes on week days
+Ride more bikes in Summer & Spring season	Ride more bikes in Summer & Spring
+<img width="960" height="121" alt="image" src="https://github.com/user-attachments/assets/2bfdc9d0-c187-48ff-a3e6-e736f299751f" />
