@@ -29,6 +29,9 @@ Each file has been loaded on MySql server through import wixard. For files which
 
 Visualization is done in Tableau. For this the merged table had been exported in a CSV file by "OUTFILE" function. This file is then uploaded on Tableau public desktop and used for data visualization.
 
+<p>This is <b>bold text</b> using the b tag.</p>
+
+
 
 <img width="1047" height="520" alt="image" src="https://github.com/user-attachments/assets/a4639bc2-bd86-4922-8d71-8811307e269d" />
 
