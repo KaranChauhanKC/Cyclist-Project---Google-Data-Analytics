@@ -39,9 +39,15 @@ Visualization is done in Tableau. For this the merged table had been exported in
 <img width="1118" height="872" alt="image" src="https://github.com/user-attachments/assets/ea37ac84-9219-47be-8a7a-c0f8c68bf392" />
 
 
-Casual	Member
-Prefer using bikes throughout the day 	Prefer riding bikes on commute hours (8 am / 5pm)
-Travel 2 times longer but less frequently than members.	Travel more frequently but shorter rides (approximately half of casual riders' trip duration).
-Ride more frequently over the weekends	Prefer riding bikes on week days
-Ride more bikes in Summer & Spring season	Ride more bikes in Summer & Spring
+On the basis of above visulaization following is the difference between casual and member riders
+
 <img width="960" height="121" alt="image" src="https://github.com/user-attachments/assets/2bfdc9d0-c187-48ff-a3e6-e736f299751f" />
+
+
+##Recommendations
+
+After identifying the differences between casual and member riders, following recommendations are made to marketing team to target casual ridersand persuade them to become members.
+
+1. Marketing campaigns might be conducted in spring and summer at tourist/recreational locations popular among casual riders.
+2. Casual riders are most active on weekends and during the summer and spring, thus they may be offered seasonal or weekend-only memberships.
+3. Casual riders use their bikes for longer durations than members. Offering discounts for longer rides may incentivize casual riders and entice members to ride for longer periods of time.
