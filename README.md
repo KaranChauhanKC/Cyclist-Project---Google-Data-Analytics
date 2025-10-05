@@ -44,7 +44,7 @@ On the basis of above visulaization following is the difference between casual a
 <img width="960" height="121" alt="image" src="https://github.com/user-attachments/assets/2bfdc9d0-c187-48ff-a3e6-e736f299751f" />
 
 
-##Recommendations
+## Recommendations
 
 After identifying the differences between casual and member riders, following recommendations are made to marketing team to target casual ridersand persuade them to become members.
 
