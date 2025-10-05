@@ -18,7 +18,7 @@ I am assumed to be a data analyst working in the marketing analyst team at Cycli
 
 ## Tools Used
 
-** MS Excel, SQL, Tableau**
+**MS Excel, SQL, Tableau**
 
 ## Data Source
 
