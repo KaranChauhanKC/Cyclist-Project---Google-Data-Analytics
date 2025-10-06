@@ -1,4 +1,4 @@
-# Cyclist-Project---Google-Data-Analytics
+# Cyclist-Project
 
 ## Case statement
 
