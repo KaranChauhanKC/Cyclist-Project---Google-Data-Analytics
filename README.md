@@ -36,17 +36,24 @@ Visualization is done in Tableau. For this the merged table had been exported in
 
 <img width="1047" height="520" alt="image" src="https://github.com/user-attachments/assets/a4639bc2-bd86-4922-8d71-8811307e269d" />
 
+Each bike type chart shows percentage from the total. The members constitutes 59.7% of the grand total while remaining 40.3% constitutes casual riders. Most used bike is classic bike followed by the electric bike. Docked bikes are used the least and by casual riders only.
+
 
 <img width="1068" height="854" alt="image" src="https://github.com/user-attachments/assets/735d7e3e-f12f-46c6-8e77-cea8124c0e1b" />
 
+**Months:** Both casual and members exhibit similar behavior in monthly trips, with more trips in the spring and summer and fewer in the winter. The gap between casuals and members is closest in the month of july in summmer.
+**Days of Week:** When the weekdays are compared the behavior of both ridertypes is different, casual riders make more journeys on the weekends while members show a decline over the weekend in contrast to the other days of the week.
+**Hours of the Day:** Both the rider types has similar behavior with number of rides increasing till 6:00 PM and then decrasing sharply. The only difference is that the members shows 2 peaks throughout the day. One is early in the morning at around 6 am to 8 am and other is in the evening at around 4 pm to 8 pm while number of trips for casual riders increase consistently over the day till evening and then decrease afterwards.
+
+From the above observations we can infer that member may be working professional using bikes for commuting to and from the work in the week-days, while casual riders maybe tourists or just simpley casual riders using bikes more frequently over the weekends, throughour the day. Both are most active in Spring and Summer months.
 
 <img width="1118" height="872" alt="image" src="https://github.com/user-attachments/assets/ea37ac84-9219-47be-8a7a-c0f8c68bf392" />
 
+From these graphs we can observe that casual riders tend to cycle longer than members do on average (approximately 2x more). This is calculated asuming the tavel speed of both casual and member riders equal.
 
-On the basis of above visulaization following is the difference between casual and member riders
+*Therefore, on the basis of above visulaization following is the difference between casual and member riders.*
 
 <img width="960" height="121" alt="image" src="https://github.com/user-attachments/assets/2bfdc9d0-c187-48ff-a3e6-e736f299751f" />
-
 
 ## Recommendations
 
